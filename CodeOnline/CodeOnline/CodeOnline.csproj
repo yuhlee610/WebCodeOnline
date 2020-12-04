@@ -127,6 +127,38 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\css\Fonts.css" />
+    <Content Include="Assets\_next\static\a5f2iJf1TKNk7xBa59ugv\pages\replEnvironment.js" />
+    <Content Include="Assets\_next\static\a5f2iJf1TKNk7xBa59ugv\pages\_app.js" />
+    <Content Include="Assets\_next\static\a5f2iJf1TKNk7xBa59ugv\_buildManifest.js" />
+    <Content Include="Assets\_next\static\chunks\07a29812.9b2df2f90852df62f0e7.js" />
+    <Content Include="Assets\_next\static\chunks\229a5dc81752c8e4190be7dba44d943256002038.16c7eec5151d8a979f4a.js" />
+    <Content Include="Assets\_next\static\chunks\2e2e565e48fe494eab5a380e0d1cb7d2bd76e59e.0a52415e7ebe186fb83d.js" />
+    <Content Include="Assets\_next\static\chunks\3cad5a7b.7322276b37ba139083e2.js" />
+    <Content Include="Assets\_next\static\chunks\3f2541bfa33295f6eaf62b922d82c9bad154eb9d.4fc86a2e4757e3501641.js" />
+    <Content Include="Assets\_next\static\chunks\51e211a62ced1ae906c219e87aec76b5d2b451c7.a77e388ef80080484f11.js" />
+    <Content Include="Assets\_next\static\chunks\632cba62.081ea720500c7c1f62e7.js" />
+    <Content Include="Assets\_next\static\chunks\7890b2e852c3cf605e9fd24e14647d8e2519d012.96c6b2183f9952549138.js" />
+    <Content Include="Assets\_next\static\chunks\8d05fd065308d3c23c7cc414251a138c53a54bce.79c43d6ef33f80bb3625.js" />
+    <Content Include="Assets\_next\static\chunks\92a33b14ae077b28b8def8c69fd117a44cfc54be.ec59832c51fd0735ae0e.js" />
+    <Content Include="Assets\_next\static\chunks\9d10953220602c9da9d356a4b64b963ef16ad4be.057858584f4add07d933.js" />
+    <Content Include="Assets\_next\static\chunks\9ee75ec5ece7c67b3d4f9a01c98ca63e5a540ba5.e292698e6321196300d6.js" />
+    <Content Include="Assets\_next\static\chunks\a7001b1f427587dd4d325cc2144cf252730a48d7.206819ba48df127c2658.js" />
+    <Content Include="Assets\_next\static\chunks\aac9e61a918ada4210ea7b115d8f83cdd810d222.dcf6c93f8539c2c1280c.js" />
+    <Content Include="Assets\_next\static\chunks\ad8219406db11c10169bc8b1be547e3c4a4633b7.5d25490e6adaf0c301e4.js" />
+    <Content Include="Assets\_next\static\chunks\adb7a87dd45985eaf8178efa0d54030ec4b7a4ff.453cc14288ce792bd733.js" />
+    <Content Include="Assets\_next\static\chunks\b0a91c5343c99c57ac1d19491bdcec2455810bdb.551e99e149c5034baca1.js" />
+    <Content Include="Assets\_next\static\chunks\c12dff8daf9e3bb153de382d11274100d59ff324.29420696ff090987cd7d.js" />
+    <Content Include="Assets\_next\static\chunks\commons.6aa837a2092c39030dd7.js" />
+    <Content Include="Assets\_next\static\chunks\d3d3d53092c533a1c0692a72a61d298918e2bf52.b715cf3aeb749ca8de1e.js" />
+    <Content Include="Assets\_next\static\chunks\d554605a56516dc39cf93c161bd14c51a180b900.459cf6a6cbbc42078e83.js" />
+    <Content Include="Assets\_next\static\chunks\de45d5dea7d734f3167f1100f4cc54bea4f79625.9a03e9fcc8500b012340.js" />
+    <Content Include="Assets\_next\static\chunks\fd3de0d15507c5e36239712879a8669e495d0c55.5d1ea807979946f60799.js" />
+    <Content Include="Assets\_next\static\chunks\framework.ca0840bab0db551da28d.js" />
+    <Content Include="Assets\_next\static\css\94e9f4459f11b8fe94ca.css" />
+    <Content Include="Assets\_next\static\runtime\main-997e591c74da85d1af34.js" />
+    <Content Include="Assets\_next\static\runtime\polyfills-50706362cf3d7661e50e.js" />
+    <Content Include="Assets\_next\static\runtime\webpack-e18d95503e1b6ce1b42f.js" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -165,6 +197,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Assets\NewFolder1\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
