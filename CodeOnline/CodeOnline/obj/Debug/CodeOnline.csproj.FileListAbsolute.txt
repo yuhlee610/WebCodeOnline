@@ -76,3 +76,4 @@ D:\Github\WebCodeOnline\CodeOnline\CodeOnline\obj\Debug\CodeOnline.csproj.CoreCo
 D:\Github\WebCodeOnline\CodeOnline\CodeOnline\obj\Debug\CodeOnline.csproj.CopyComplete
 D:\Github\WebCodeOnline\CodeOnline\CodeOnline\obj\Debug\CodeOnline.dll
 D:\Github\WebCodeOnline\CodeOnline\CodeOnline\obj\Debug\CodeOnline.pdb
+D:\Github\WebCodeOnline\CodeOnline\CodeOnline\obj\Debug\CodeOnline.csprojAssemblyReference.cache

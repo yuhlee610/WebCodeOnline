@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.uniconsent.com	TRUE	/	FALSE	1999999999	__cfduid	d04e4a155f94d5f0070c4229478a73c221607076541
+cmp.uniconsent.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
